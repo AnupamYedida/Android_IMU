@@ -1,3 +1,3 @@
 #!/bin/bash
 
-roslaunch your_pkg imu.launch 
+roslaunch Android_IMU imu.launch 
